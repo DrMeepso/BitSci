@@ -7,7 +7,7 @@ namespace BitSci{
     }
     }
     //% block
-    export function Pauseinseconds (time: number){
-    basic.pause((time * 1000))
+    export function Pauseinseconds (seconds: number){
+    basic.pause((seconds * 1000))
     }
 }

@@ -5,6 +5,7 @@ namespace BitSci{
     for (let index = 0; index <= text.length - 1; index++) {
         basic.showString(text.charAt(index))
     }
+    basic.clearScreen()
     }
     //% block
     export function Pauseinseconds (seconds: number){

@@ -1,3 +1,6 @@
+## BitSci
+A open source **Micro:Bit** library for make code 
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.

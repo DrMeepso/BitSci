@@ -1,3 +1,1 @@
-BitSci.Typewriter("The Quick")
-BitSci.Pauseinseconds(1)
-BitSci.Typewriter("Brown Fox")
+"The Code Is Writen In Java Script So There Are No Blocks"

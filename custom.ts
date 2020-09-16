@@ -11,4 +11,5 @@ namespace BitSci{
     export function Pauseinseconds (seconds: number){
     basic.pause((seconds * 1000))
     }
+    
 }

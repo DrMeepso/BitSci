@@ -1,4 +1,6 @@
 ## BitSci
+>Made by DrMeepso
+
 A open source **Micro:Bit** library for make code 
 
 ## Use as Extension

@@ -1,4 +1,4 @@
-//% weight=100 color=#0fbc11 icon=""
+//% weight=100 color=#4995f2 icon=""
 namespace BitSci{
     //% block
     export function Typewriter (text: string) {
